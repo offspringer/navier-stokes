@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NavierStokes", "NavierStokes\NavierStokes.vcxproj", "{2C7FEFF0-822C-4D47-93CF-A991BC896826}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AAB70BB3-41E6-446E-AAA7-2E8B6FD584BC}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C7FEFF0-822C-4D47-93CF-A991BC896826}.Debug|x64.ActiveCfg = Debug|x64
+		{2C7FEFF0-822C-4D47-93CF-A991BC896826}.Debug|x64.Build.0 = Debug|x64
+		{2C7FEFF0-822C-4D47-93CF-A991BC896826}.Debug|x86.ActiveCfg = Debug|Win32
+		{2C7FEFF0-822C-4D47-93CF-A991BC896826}.Debug|x86.Build.0 = Debug|Win32
+		{2C7FEFF0-822C-4D47-93CF-A991BC896826}.Release|x64.ActiveCfg = Release|x64
+		{2C7FEFF0-822C-4D47-93CF-A991BC896826}.Release|x64.Build.0 = Release|x64
+		{2C7FEFF0-822C-4D47-93CF-A991BC896826}.Release|x86.ActiveCfg = Release|Win32
+		{2C7FEFF0-822C-4D47-93CF-A991BC896826}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AB2C024-2BCA-44C9-8964-140725D89861}
+	EndGlobalSection
+EndGlobal
