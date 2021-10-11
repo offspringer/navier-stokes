@@ -8,7 +8,7 @@
 
 In physics, the [Navier Stokes equations](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations) are certain partial differential equations which describe the motion of viscous fluid substances, named after French engineer and physicist Claude-Louis Navier and Anglo-Irish physicist and mathematician George Gabriel Stokes. They were developed over several decades of progressively building the theories, from 1822 (Navier) to 1842–1850 (Stokes).
 
-This project aims to create a fluid simulator based on a Navier Stokes equations and supported by OpenGL libraries. It was developed in 2007 by me (Roger Santos) and a friend (Thiago Baptista) when we're studying the Computer Graphics discipline at the University. During that time, we received orientation from Luciano Silva, our teacher. Recently, it was upgraded and refactored to work with VS2019 and FreeGLUT library.
+This project aims to create a fluid simulator based on a Navier Stokes equation and supported by OpenGL libraries. It was developed in 2007 by me (Roger Santos) and a friend (Thiago Baptista) when we're studying the Computer Graphics discipline at the University. During that time, we received orientation from Luciano Silva, our teacher. Recently, it was upgraded and refactored to work with VS2019 and FreeGLUT library.
 
 ### Built With
 
